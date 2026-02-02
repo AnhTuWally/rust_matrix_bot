@@ -1,0 +1,18 @@
+# Example configuration file for Rust Matrix Bot
+[matrix]
+# Matrix homeserver URL (e.g., https://matrix.org)
+homeserver = "https://matrix.example.com"
+
+# Matrix username (e.g., @bot:matrix.org)
+username = "@bot:example.com"
+
+# Matrix password
+password = "your_matrix_password"
+
+
+[firefly]
+# Firefly III API URL (e.g., https://firefly.example.com/api/v1)
+base_url = "https://firefly.example.com/api/v1"
+
+# Firefly III Personal Access Token
+token = "your_firefly_access_token"
