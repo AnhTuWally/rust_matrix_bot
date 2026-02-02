@@ -15,7 +15,7 @@ This is a simple bot written in Rust that integrates with Matrix and Firefly III
 ## Setup
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AnhTuWally/rust_matrix_bot
    cd rust_matrix_bot
    ```
 2. Install dependencies:
